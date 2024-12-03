@@ -4,20 +4,25 @@ The Wardrobe Matchmaker is a web application designed to help users create a vir
 
 ## Features
 
-Upload Items: Add clothing items to your wardrobe with details like name, type, style, and an image URL.
-View Gallery: Browse your wardrobe in an organized gallery.
-Drag and Drop Matching: Use drag-and-drop functionality to create and save outfit combinations.
-Favorites Management: Save, view, and manage your favorite outfits.
-Responsive Design: Enjoy a seamless experience across desktop and mobile devices.
-Sticky Navbar: A navigation bar that stays accessible at the top of the page.
-Custom Styling: The app uses modern styling with a monochromatic color palette featuring #53327d and #6b42a2.
+### Upload Items: 
+ Add clothing items to your wardrobe with details like name, type, style, and an image URL.
+### View Gallery:
+ Browse your wardrobe in an organized gallery.
+### Drag and Drop Matching:
+ Use drag-and-drop functionality to create and save outfit combinations.
+### Favorites Management:
+ Save, view, and manage your favorite outfits.
+### Custom Styling:
+ The app uses modern styling with a monochromatic color palette featuring #53327d and #6b42a2.
 
 ## Tech Stack
-Frontend:
+
+### Frontend:
 React: A JavaScript library for building user interfaces.
 React DnD: For drag-and-drop functionality.
 CSS: Custom styles for a polished and professional design.
-Backend:
+
+### Backend:
 Django Rest Framework (DRF): Provides RESTful APIs for managing clothing items and outfit data.
 SQLite: Default database for development.
 
