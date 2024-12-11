@@ -12,8 +12,6 @@ The Wardrobe Matchmaker is a web application designed to help users create a vir
  Use drag-and-drop functionality to create and save outfit combinations.
 ### Favorites Management:
  Save, view, and manage your favorite outfits.
-### Custom Styling:
- The app uses modern styling with a monochromatic color palette featuring #53327d and #6b42a2.
 
 ## Tech Stack
 
