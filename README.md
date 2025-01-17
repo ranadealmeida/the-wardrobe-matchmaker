@@ -17,11 +17,14 @@ The Wardrobe Matchmaker is a web application designed to help users create a vir
 
 ### Frontend:
 React: A JavaScript library for building user interfaces.
+
 React DnD: For drag-and-drop functionality.
+
 CSS: Custom styles for a polished and professional design.
 
 ### Backend:
 Django Rest Framework (DRF): Provides RESTful APIs for managing clothing items and outfit data.
+
 SQLite: Default database for development.
 
  
